@@ -1,0 +1,143 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Desdemona
+FamilyName:Desdemona
+StyleName:Regular
+MenuName:Desdemona
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Desdemona
+WritingScript:Roman
+OutlineFileName:\Desdemona
+DataFormat:sfntResource
+ResourceID:4096
+FileLength:55922
+FileModTime:1196632800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Desdemona
+OutlineFileName:\Desdemona
+ResourceID:6072
+MacStyle:0
+FileLength:55922
+FileModTime:1196632800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Desdemona
+OutlineFileName:\Desdemona
+ResourceID:6072
+MacStyle:1
+FileLength:55922
+FileModTime:1196632800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FiraSans-Light
+FamilyName:Fira Sans
+StyleName:Light
+MenuName:Fira Sans Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Fira Sans Light
+WritingScript:Roman
+OutlineFileName:\FiraSans-Light.ttf
+DataFormat:sfntData
+FileLength:193712
+FileModTime:1416927581
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FiraSans-Medium
+FamilyName:Fira Sans
+StyleName:Medium
+MenuName:Fira Sans Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Fira Sans Medium
+WritingScript:Roman
+OutlineFileName:\FiraSans-Medium.ttf
+DataFormat:sfntData
+FileLength:194388
+FileModTime:1416927579
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FiraSans-Regular
+FamilyName:Fira Sans
+StyleName:Regular
+MenuName:Fira Sans
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Fira Sans
+WritingScript:Roman
+OutlineFileName:\FiraSans-Regular.ttf
+DataFormat:sfntData
+FileLength:194812
+FileModTime:1416927578
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1416927577
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Pretender-Regular
+FamilyName:Pretender
+StyleName:Regular
+MenuName:Pretender
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Pretender-Regular
+WritingScript:Roman
+OutlineFileName:\pretender.ttf
+DataFormat:sfntData
+FileLength:78668
+FileModTime:1416927576
+%EndFont
+
