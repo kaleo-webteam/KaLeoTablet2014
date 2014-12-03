@@ -3,44 +3,9 @@
 
 %BeginFont
 Handler:DirectoryHandler
-FontType:TrueType
-FontName:Desdemona
-FamilyName:Desdemona
-StyleName:Regular
-MenuName:Desdemona
-StyleBits:0
-WeightClass:400
-WidthClass:5
-AngleClass:0
-FullName:Desdemona
-WritingScript:Roman
+FontType:Invalid
 OutlineFileName:\Desdemona
-DataFormat:sfntResource
-ResourceID:4096
-FileLength:55922
-FileModTime:1196632800
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:Suitcase
-FontName:Desdemona
-OutlineFileName:\Desdemona
-ResourceID:6072
-MacStyle:0
-FileLength:55922
-FileModTime:1196632800
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:Suitcase
-FontName:Desdemona
-OutlineFileName:\Desdemona
-ResourceID:6072
-MacStyle:1
-FileLength:55922
-FileModTime:1196632800
+FileModTime:1417014924
 %EndFont
 
 %BeginFont
@@ -59,7 +24,7 @@ WritingScript:Roman
 OutlineFileName:\FiraSans-Light.ttf
 DataFormat:sfntData
 FileLength:193712
-FileModTime:1416927581
+FileModTime:1417014924
 %EndFont
 
 %BeginFont
@@ -78,7 +43,7 @@ WritingScript:Roman
 OutlineFileName:\FiraSans-Medium.ttf
 DataFormat:sfntData
 FileLength:194388
-FileModTime:1416927579
+FileModTime:1417014924
 %EndFont
 
 %BeginFont
@@ -97,7 +62,7 @@ WritingScript:Roman
 OutlineFileName:\FiraSans-Regular.ttf
 DataFormat:sfntData
 FileLength:194812
-FileModTime:1416927578
+FileModTime:1417014924
 %EndFont
 
 %BeginFont
@@ -118,7 +83,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:217280
-FileModTime:1416927577
+FileModTime:1417014924
 DesignSize:110
 %EndFont
 
@@ -138,6 +103,6 @@ WritingScript:Roman
 OutlineFileName:\pretender.ttf
 DataFormat:sfntData
 FileLength:78668
-FileModTime:1416927576
+FileModTime:1417014924
 %EndFont
 
